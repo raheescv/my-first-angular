@@ -1,0 +1,3 @@
+npm install -g angular-cli-ghpages
+ng build --prod --base-href https://raheescv.github.io/my-first-angular/
+sudo ngh
